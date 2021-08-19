@@ -1,2 +1,2 @@
 # Projeto_SandBox
-Created with CodeSandbox
+Um protótipo de site para fazer pedidos de delivery, similar ao Ifood.
